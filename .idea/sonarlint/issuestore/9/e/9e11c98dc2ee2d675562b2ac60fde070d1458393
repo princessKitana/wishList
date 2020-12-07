@@ -1,0 +1,18 @@
+
+I
+java:S1128
+"-Remove this unused import 'org.slf4j.Logger'.(íØ®68ı“ãÏã.
+Q
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8ı“ãÏã.
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ı“ãÏã.
+c
+java:S1128	"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8ı“ãÏã.
+_
+java:S1128"=Remove this unused import 'com.abc.core.enums.BusinessRules'.(à‹İäúÿÿÿÿ8ı“ãÏã.
+R
+java:S1128"5Remove this unused import 'com.abc.core.domain.Wish'.(í¸ñ8ı“ãÏã.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ı“ãÏã.
+e
+java:S1128"CRemove this unused import 'com.abc.core.repository.WishRepository'.(Ãü‘ıÿÿÿÿ8ı“ãÏã.

@@ -1,0 +1,19 @@
+
+X	java:S125J"<This block of commented-out lines of code should be removed.(éˆØ©8™´ûÉã.
+]	java:S1252"<This block of commented-out lines of code should be removed.(š“¤ëıÿÿÿÿ8™´ûÉã.
+]	java:S125>"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8™´ûÉã.
+L
+java:S1068"*Remove this unused "INDATA" private field.(‘Üï”ùÿÿÿÿ8™´ûÉã.
+G
+java:S1068"*Remove this unused "logger" private field.(ó×á—8™´ûÉã.
+X	java:S125G"<This block of commented-out lines of code should be removed.(¥×­Ş8™´ûÉã.
+X	java:S125/"<This block of commented-out lines of code should be removed.(¿¢àô8™´ûÉã.
+X	java:S125@"<This block of commented-out lines of code should be removed.(êŸ¶æ8™´ûÉã.
+@
+java:S1128"Remove this duplicated import.(œ™ßêûÿÿÿÿ8™´ûÉã.
+K
+java:S1068")Remove this unused "FATAL" private field.(¦àÇåùÿÿÿÿ8™´ûÉã.
+W	java:S125:"<This block of commented-out lines of code should be removed.(ØÈ‰=8™´ûÉã.
+m	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã©šá8™´ûÉã.
+K
+java:S1068 ")Remove this unused "ERROR" private field.(»¶Ö¤ÿÿÿÿÿ8™´ûÉã.
