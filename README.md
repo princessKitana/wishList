@@ -3,10 +3,10 @@
 ## Build:
  _mvn clean install_
 
-##Swagger:
+## Swagger:
 _http://localhost:8080/swagger-ui/_
 
-###Request Sample:
+### Request Sample:
 _http://localhost:8080/wishList/add_
 
 `{
