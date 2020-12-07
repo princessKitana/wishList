@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.abc.core.service.FireServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in com.abc.core.service.FireServiceTest
+initializationError  Time elapsed: 0 s  <<< ERROR!
+org.junit.runners.model.InvalidTestClassError: 
+Invalid test class 'com.abc.core.service.FireServiceTest':
+  1. No runnable methods
+

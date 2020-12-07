@@ -1,0 +1,6 @@
+com\abc\core\TestHelper.class
+com\abc\core\integrationTests\AddWishListTest.class
+com\abc\core\integrationTests\ParseUserNamesTest.class
+com\abc\core\integrationTests\UpdateWishListTest.class
+com\abc\core\service\FireServiceTest.class
+com\abc\core\integrationTests\GetWishListTest.class
