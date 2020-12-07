@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.abc.core.integrationTests.UpdateWishListTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.063 s <<< FAILURE! - in com.abc.core.integrationTests.UpdateWishListTest
-UpdateWishSuccess  Time elapsed: 0.034 s  <<< FAILURE!
-java.lang.AssertionError: expected:<200 OK> but was:<405 METHOD_NOT_ALLOWED>
-	at com.abc.core.integrationTests.UpdateWishListTest.UpdateWishSuccess(UpdateWishListTest.java:37)
-
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.319 s - in com.abc.core.integrationTests.UpdateWishListTest

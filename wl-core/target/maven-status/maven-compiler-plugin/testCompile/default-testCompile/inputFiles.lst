@@ -1,6 +1,15 @@
+C:\test\wishList\wl-core\src\test\java\com\abc\core\integrationTests\TestHelper.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\add\AddWishServiceTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\integrationTests\DeleteWishListTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\integrationTests\ExceptionTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\delete\DeleteWishValidatorTest.java
 C:\test\wishList\wl-core\src\test\java\com\abc\core\integrationTests\GetWishListTest.java
-C:\test\wishList\wl-core\src\test\java\com\abc\core\service\FireServiceTest.java
-C:\test\wishList\wl-core\src\test\java\com\abc\core\TestHelper.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\get\GetWishValidatorTest.java
 C:\test\wishList\wl-core\src\test\java\com\abc\core\integrationTests\UpdateWishListTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\get\GetWishServiceTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\delete\DeleteWishServiceTest.java
 C:\test\wishList\wl-core\src\test\java\com\abc\core\integrationTests\AddWishListTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\update\UpdateWishServiceTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\update\UpdateWishValidatorTest.java
 C:\test\wishList\wl-core\src\test\java\com\abc\core\integrationTests\ParseUserNamesTest.java
+C:\test\wishList\wl-core\src\test\java\com\abc\core\serviceTests\add\AddWishValidatorTest.java
